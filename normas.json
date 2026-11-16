@@ -1,0 +1,185 @@
+[
+  {
+    "id": "LGA",
+    "emisor": "MEF",
+    "tipo": "Decreto Legislativo",
+    "numero": "1053",
+    "titulo": "Ley General de Aduanas",
+    "version": "Norma base; consultar modificatorias",
+    "fecha": "2008-06-27",
+    "url": "https://www.gob.pe/institucion/mef/normas-legales/226850-1053",
+    "estado_revision": "Revisar texto consolidado y modificatorias",
+    "procedimiento": "Marco general",
+    "parrafo": "Ley General de Aduanas",
+    "extracto": "Establece el marco jurídico general del ingreso y salida de mercancías del territorio aduanero.",
+    "tags": [
+      "general",
+      "importar",
+      "exportar",
+      "ley"
+    ]
+  },
+  {
+    "id": "IMP",
+    "emisor": "SUNAT",
+    "tipo": "Procedimiento general",
+    "numero": "DESPA-PG.01",
+    "titulo": "Importación para el consumo",
+    "version": "Versión 8, con modificatorias",
+    "fecha": "2026-09-01",
+    "url": "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/procGeneral/despa-pg.01.htm",
+    "estado_revision": "Página oficial consultada; revisar control de cambios",
+    "procedimiento": "Importación para el consumo",
+    "parrafo": "Sección VI.A.1 y VII.A.3.2",
+    "extracto": "Este régimen permite el ingreso de mercancías para consumo luego del cumplimiento de los pagos, garantías, formalidades y obligaciones aplicables. La sección VII.A.3 trata los documentos sustentatorios y contempla documento de transporte y factura/documento equivalente/contrato, entre otros según corresponda.",
+    "tags": [
+      "importar",
+      "documentos",
+      "factura",
+      "transporte",
+      "tributos"
+    ]
+  },
+  {
+    "id": "EXP",
+    "emisor": "SUNAT",
+    "tipo": "Procedimiento general",
+    "numero": "DESPA-PG.02",
+    "titulo": "Exportación definitiva",
+    "version": "Versión 7, con modificatorias",
+    "fecha": "2026-08-04",
+    "url": "https://www.sunat.gob.pe/legislacion/procedim/despacho/exportacion/exportac/procGeneral/despa-pg.02.htm",
+    "estado_revision": "Página oficial consultada; revisar control de cambios",
+    "procedimiento": "Exportación definitiva",
+    "parrafo": "Sección VI.A.1",
+    "extracto": "La exportación definitiva permite la salida del territorio aduanero de mercancías nacionales o nacionalizadas para uso o consumo definitivo en el exterior; este régimen no está afecto a tributo alguno.",
+    "tags": [
+      "exportar",
+      "documentos",
+      "factura",
+      "transporte"
+    ]
+  },
+  {
+    "id": "CAL",
+    "emisor": "SUNAT",
+    "tipo": "Instructivo",
+    "numero": "DESPA-IT.01.23",
+    "titulo": "Descripciones mínimas de calzado",
+    "version": "Versión 1",
+    "fecha": "2023-11-30",
+    "url": "https://www.sunat.gob.pe/legislacion/procedim/despacho/importacion/importac/instructivos/despa-it-01-23.htm",
+    "estado_revision": "Página oficial consultada; revisar modificaciones",
+    "procedimiento": "Importación de calzado en regímenes comprendidos",
+    "parrafo": "Secciones I, V.1 y VI.A; Anexo I",
+    "extracto": "Para calzado de partidas 6401 a 6405 en los regímenes señalados por el instructivo, exige descripciones mínimas en formato B de la DAM. Incluye denominación, marca, modelo y características de parte superior, planta, forro, usuario, sistema de medida, talla y construcción según tablas aplicables.",
+    "tags": [
+      "importar",
+      "calzado",
+      "descripcion",
+      "dam"
+    ]
+  },
+  {
+    "id": "RES",
+    "emisor": "SUNAT",
+    "tipo": "Orientación oficial",
+    "numero": "Mercancías restringidas y prohibidas",
+    "titulo": "Mercancías restringidas y entidades competentes",
+    "version": "Portal orientativo",
+    "fecha": "s. f.",
+    "url": "https://www.sunat.gob.pe/orientacionaduanera/mercanciasrestringidas/cuadroEntidades.html",
+    "estado_revision": "Orientación referencial; confirmar norma sectorial",
+    "procedimiento": "Verificación de restricciones",
+    "parrafo": "Introducción y cuadro de entidades",
+    "extracto": "Para determinar si una mercancía está restringida debe revisarse la legislación sectorial vigente y consultar a la entidad competente. No todas las mercancías requieren autorización.",
+    "tags": [
+      "importar",
+      "exportar",
+      "restricciones",
+      "autorizacion"
+    ]
+  },
+  {
+    "id": "CLA",
+    "emisor": "SUNAT",
+    "tipo": "Orientación oficial",
+    "numero": "Clasificación arancelaria",
+    "titulo": "Clasificación arancelaria y subpartida nacional",
+    "version": "Portal orientativo",
+    "fecha": "s. f.",
+    "url": "https://asistenteaduanero.sunat.gob.pe/clasificacion-arancelaria",
+    "estado_revision": "Orientación general; clasificación oficial es trámite separado",
+    "procedimiento": "Clasificación arancelaria",
+    "parrafo": "¿Qué es la Clasificación Arancelaria?",
+    "extracto": "La subpartida nacional de diez dígitos se determina por las características técnicas de la mercancía y las reglas de interpretación. Se utiliza para analizar tributos, restricciones y preferencias. El orientador no emite clasificación vinculante.",
+    "tags": [
+      "importar",
+      "exportar",
+      "subpartida",
+      "tributos",
+      "clasificacion"
+    ]
+  },
+  {
+    "id": "ORI",
+    "emisor": "MINCETUR",
+    "tipo": "Orientación oficial",
+    "numero": "Sistemas de certificación de origen",
+    "titulo": "Sistemas de certificación de origen",
+    "version": "Portal institucional",
+    "fecha": "2024-01-14",
+    "url": "https://www.gob.pe/40497",
+    "estado_revision": "Consultar acuerdo y reglas vigentes",
+    "procedimiento": "Prueba de origen",
+    "parrafo": "Sistemas de certificación de origen",
+    "extracto": "El trato arancelario preferencial depende del acuerdo o régimen aplicable y de una prueba de origen admisible, que puede ser certificado o declaración de origen según las reglas correspondientes.",
+    "tags": [
+      "importar",
+      "exportar",
+      "origen",
+      "preferencias",
+      "certificado"
+    ]
+  },
+  {
+    "id": "ARAN",
+    "emisor": "SUNAT",
+    "tipo": "Orientación oficial",
+    "numero": "Tratamiento arancelario",
+    "titulo": "Consulta de tratamiento arancelario por subpartida",
+    "version": "Portal orientativo",
+    "fecha": "s. f.",
+    "url": "https://www.sunat.gob.pe/orientacionaduanera/nomenclaturaarancelaria/tratamiento.html",
+    "estado_revision": "Información de acceso al servicio; consultar con subpartida validada",
+    "procedimiento": "Consulta de tributos",
+    "parrafo": "Tratamiento Arancelario",
+    "extracto": "Con una subpartida nacional verificada, el servicio de tratamiento arancelario permite consultar los tributos, restricciones y beneficios que correspondan a la mercancía.",
+    "tags": [
+      "importar",
+      "tributos",
+      "arancel",
+      "subpartida"
+    ]
+  },
+  {
+    "id": "USADO",
+    "emisor": "SUNAT",
+    "tipo": "Orientación oficial",
+    "numero": "Importa Fácil — prohibiciones",
+    "titulo": "Orientación SUNAT sobre ropa y calzado usado",
+    "version": "Página de orientación",
+    "fecha": "s. f.",
+    "url": "https://ww1.sunat.gob.pe/orientacionaduanera/importaFacil/index.html",
+    "estado_revision": "Revisar régimen y prohibición legal vigente antes de decidir",
+    "procedimiento": "Orientación sobre bienes que no pueden importarse",
+    "parrafo": "Sección mercancías prohibidas",
+    "extracto": "La orientación sobre Importa Fácil de SUNAT incluye ropa y calzado usado entre las mercancías prohibidas para ingreso al Perú; verificar la norma legal aplicable y el caso específico antes de operar.",
+    "tags": [
+      "importar",
+      "calzado",
+      "usado",
+      "prohibido"
+    ]
+  }
+]
